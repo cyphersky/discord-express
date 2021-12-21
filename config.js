@@ -1,6 +1,6 @@
 module.exports = {
 	port: 3000,
-	clientid: "clientid",
+	clientId: "clientid",
 	clientSecret: "clientSecret",
 	botToken: "botToken",
 	guildId: "801107380188217344",
